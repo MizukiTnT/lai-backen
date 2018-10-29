@@ -1,0 +1,6 @@
+build/*.js
+config/*.js
+src/assets
+src/mock
+src/components/editor
+src/*
